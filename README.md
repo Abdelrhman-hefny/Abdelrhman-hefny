@@ -67,10 +67,9 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
   <a href="https://www.linkedin.com/in/abderhman20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main
                                                                                         </p>
   
-[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 📚 Currently Learning
 - 📘 C# for .NET Development
 - 🔧 Angular for dynamic frontend applications
 - 🧩 Backend development using Node.js
+
+[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
