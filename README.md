@@ -64,7 +64,7 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
   <a href="https://www.facebook.com/abderhman19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
   <a href="https://www.github.com/Abdelrhman-hefny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://abdelrhman92.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" /></a>
-  <a href="https://www.linkedin.com/in/abderhman20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main
+  <a href="https://www.linkedin.com/in/abderhman20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main></a>
                                                                                         </p>
   
 ### 📚 Currently Learning
