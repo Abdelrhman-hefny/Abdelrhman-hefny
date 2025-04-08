@@ -77,14 +77,15 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
 
 ---
 
+## 📊 GitHub Stats
+
+[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## 📚 Currently Learning
 
 - 📘 C# for .NET Development  
 - 🔧 Angular for dynamic frontend applications  
 - 🧩 Backend development using Node.js  
-
----
-
-## 📊 GitHub Stats
-
-[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
