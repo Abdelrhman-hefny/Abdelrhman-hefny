@@ -55,21 +55,36 @@
 I’m always open to new opportunities, collaborations, or just a friendly chat.  
 📧 [abderhman.dev@gmail.com](mailto:abderhman.dev@gmail.com)  
 🌐 Or reach out through the socials below!
-
-
-### Socials
+## 📫 Socials
 
 <p align="left">
-  <a href="https://discord.com/users/abderhman_101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-  <a href="https://www.facebook.com/abderhman19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
-  <a href="https://www.github.com/Abdelrhman-hefny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://abdelrhman92.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" /></a>
-  <a href="https://www.linkedin.com/in/abderhman20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main></a>
-                                                                                        </p>
-  
-### 📚 Currently Learning
-- 📘 C# for .NET Development
-- 🔧 Angular for dynamic frontend applications
-- 🧩 Backend development using Node.js
+  <a href="https://discord.com/users/abderhman_101" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/abderhman19" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+  <a href="https://www.github.com/Abdelrhman-hefny" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://abdelrhman92.hashnode.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
+  </a>
+  <a href="https://www.linkedin.com/in/abderhman20/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
 
-[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📚 Currently Learning
+
+- 📘 C# for .NET Development  
+- 🔧 Angular for dynamic frontend applications  
+- 🧩 Backend development using Node.js  
+
+---
+
+## 📊 GitHub Stats
+
+[![Abderhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-hefny&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
